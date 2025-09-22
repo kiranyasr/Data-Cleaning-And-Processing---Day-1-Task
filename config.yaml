@@ -1,0 +1,5 @@
+# File paths for the project
+input_file: "Titanic-Dataset.csv"
+output_file: "cleaned_titanic_dataset.csv"
+plot_file: "outliers_boxplot.png"
+log_file: "data_processing.log"

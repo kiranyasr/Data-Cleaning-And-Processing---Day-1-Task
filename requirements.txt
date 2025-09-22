@@ -1,0 +1,12 @@
+# Core data science libraries
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+
+# For reading configuration files
+PyYAML
+
+# For testing
+pytest
